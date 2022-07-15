@@ -1,0 +1,1 @@
+text = " Enjoy the walk and have fun \n -Park Ranger";

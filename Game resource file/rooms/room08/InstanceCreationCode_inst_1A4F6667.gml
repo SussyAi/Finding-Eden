@@ -1,0 +1,1 @@
+text = "Hello Park Ranger \n Use A,S,D,W for the Movement \n Use SpaceBar to Jump and Dodge the clones\n";

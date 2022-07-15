@@ -1,0 +1,1 @@
+text = " Welcome to Eden Garden Park Ranger \n Please Be carefull with the clone they will harm you \n";

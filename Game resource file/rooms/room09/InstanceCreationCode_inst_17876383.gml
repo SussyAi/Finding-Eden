@@ -1,0 +1,1 @@
+text = " Destroy those crate with gun \n And collect the coin and diamond \n to unlock next area \n ";

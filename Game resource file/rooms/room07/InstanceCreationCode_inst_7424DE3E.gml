@@ -1,0 +1,1 @@
+text = "Pick up those \n COINS \n DIAMOND \n STAR \n ";

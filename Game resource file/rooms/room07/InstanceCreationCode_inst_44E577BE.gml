@@ -1,0 +1,1 @@
+text = " Pick up Gun Park Ranger for protection \n  Press left Mouse Botton To shoot \n Move the mouse to aim \n" ;
